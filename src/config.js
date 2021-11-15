@@ -20,7 +20,7 @@ global.APIKeys = { // APIKey nya disini
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://pencarikode.xyz': 'pais',
-  'https://api.xteam.xyz': 'apikeymu',
+  'https://api.xteam.xyz': 'f6b73f1a27babc97',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
 }
@@ -28,7 +28,7 @@ global.APIKeys = { // APIKey nya disini
 
 userbot = {
 Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
- owner:  [ "6281261324817", "6281916259786", "62857420881846","628812904283","6282328303332", "62822980698995", "436504463151666", "62823283033323" ],
+ owner:  [ "6285217835752", "380946298137", "6289646548836", "628988380555" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
@@ -52,8 +52,8 @@ Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
    expiredQr: "[!] Scan Kode QR Diatas, Expired dalam 30 detik",
    credentials: "credentials updated!",
    opendocs: "open docs is complete!", 
-   readBaileys: "berhasil masuk ke dalam baileys",
-   connecting: "Menghubungkan",
+   readBaileys: "Berhasil masuk ke dalam baileys",
+   connecting: "Menghubungkan...",
    refresh: "Berhasil Perbarui Jaringan\n"
    },
    prefix: ["/"],
@@ -61,7 +61,7 @@ Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
    limit: 100,
    eror: "Sepertinya Eror",
    waits: "Sedang di proses",
-   butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU',
+   butmag: 'https://i.ibb.co/XJHWhvb/380-94-629-8137-20211105-110105.jpg',
    packname: "RIXLE-BOT-OFFICIAL",
    author: '@_fearTeam',
     setting: {
