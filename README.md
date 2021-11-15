@@ -25,26 +25,24 @@ Lu gausah asal claim sc ini, ganti nama/up di yt atas nama lu, sama aja lu ga ng
 ```
 
 # Join Group
-[![Group Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EBI5SZfyE8Z6i4UJpcs9Tl)
+[![Group Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/H86sEreZERM4xsOZQYuEMW)
 
 # ONLY RUN RAILWAY
 [`railway.app`](https://railway.app/new/github)
 ## REST API
 **[`Riz Api`](https://rizapi.herokuapp.com/)**
 
-## HAPUS DULU SESINYA 😅 [`session.json`](https://github.com/Rizxyu/RIXLE-BOT/blob/main/src/session/qrcode-terminal.json)
+## HAPUS/GANTI DULU SESINYA 😅 [`session.json`](https://github.com/namikulaufa/RIXLE-BOT/blob/main/src/session/qrcode-terminal.json)
 
 ## ✍️ Editing the file
 
-Edit the required value in [`config.js`](https://github.com/Rizxyu/RIXLE-BOT/blob/main/config.js)
+Edit the required value in [`config.js`](https://github.com/namikulaufa/RIXLE-BOT/blob/main/src/config.js)
 
 Create a new account at [`monggodb`](https://www.mongodb.com/cloud/atlas/register)
 
 
 # KHUSUS TERMUX↓
 [`githubdl`](https://github.com/Fau-Zan/Rixle-botV2)
-
-# RDP/VPS/LINUX
 
 
 ## FEATURE LIST 💡
@@ -100,6 +98,8 @@ Create a new account at [`monggodb`](https://www.mongodb.com/cloud/atlas/registe
 | Auto Setbio |𝗧𝗲𝗿𝘀𝗲𝗱𝗶𝗮|
 | Menyapa Anggota Grup |𝗧𝗲𝗿𝘀𝗲𝗱𝗶𝗮|
 
+	
+# PARA DEVELOPER
 # [`👥My Team`](https://chat.whatsapp.com/D75oLHFNUXQCenRThcKUD1)
 * [`Fauzan (Dev)`](https://github.com/Fau-Zan)
 * [`Ivan (Dev)`](https://github.com/ivan-MLN)
