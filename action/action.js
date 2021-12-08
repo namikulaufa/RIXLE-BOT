@@ -43,7 +43,7 @@ let image = await new Canvas.Goodbye()
   .setColor("message-box", "#000000")
   .setColor("title", "#ffffff")
   .setColor("avatar", "#000000")
-  .setBackground("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBCkFVUY0nJxj1DPqtvAwrf7qfvj6e-Rv-A&usqp=CAU")
+  .setBackground("https://i.ibb.co/zQhdwph/Screenshot-20211209-002109-Chrome.jpg")
   .toAttachment();
  buff = await image.toBuffer()
 teks = `@${mem.split("@")[0]} Keluar Dari Group ${groupM.subject}`
@@ -70,11 +70,11 @@ let imaged = await new Canvas.Welcome()
   .setColor("message-box", "#000000")
   .setColor("title", "#ffffff")
   .setColor("avatar", "#000000")
-  .setBackground("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF7c3n7snGnpzS676fXaU2yxSjGsFNrCURXw&usqp=CAU")
+  .setBackground("https://i.ibb.co/zQhdwph/Screenshot-20211209-002109-Chrome.jpg")
   .toAttachment();
  buff = await imaged.toBuffer()
- teks = `@${mem.split("@")[0]} Bergabung dalam Group ${groupM.subject}`
- conn.sendButImg(jid, buff, teks, userbot.packname, 'Selamat datang', 'welcome', false, { contextInfo: {"mentionedJid": conn.parseMention(teks)}})
+ teks = `@${mem.split("@")[0]} Joined on Group ${groupM.subject}`
+ conn.sendButImg(jid, buff, teks, userbot.packname, 'Welcome', 'welcome', false, { contextInfo: {"mentionedJid": conn.parseMention(teks)}})
     }
     
  break
